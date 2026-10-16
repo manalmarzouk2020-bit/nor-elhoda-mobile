@@ -1,0 +1,31 @@
+{
+  "name": "نور الهدى | قصص الأنبياء",
+  "short_name": "نور الهدى",
+  "description": "قصص الأنبياء والصحابة والقصص القرآنية بالمصادر الصحيحة - استماع واختبارات وشهادات للأطفال",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#0d3b2e",
+  "theme_color": "#0d3b2e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
